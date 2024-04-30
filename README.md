@@ -1,6 +1,6 @@
 # Roberto Dutra Fernandes Filho
 
-*Sempre buscando aprender e me aprimorar*
+*Sempre buscando me aprimorar*
 
 ### Skills:
 
