@@ -1,15 +1,36 @@
-# Roberto Dutra Fernandes Filho
-*Estudante do Centro Universitário Facens, fascinado por Inteligência Artificial e Data Science*
+# Olá, eu sou Roberto Dutra 👋
+
+## Estudante de Engenharia da Computação na FACENS
+
+## Focado em Ciência de Dados, Machine Learning e Automação
+
+Sou estudante de Engenharia da Computação no Centro Universitário FACENS, com foco em Ciência de Dados, análise estatística e desenvolvimento de modelos de Machine Learning.
+
+Tenho experiência prática no desenvolvimento de soluções utilizando Python para análise de dados, automação de processos (RPA) e criação de aplicações inteligentes.
+
+Também atuo com automação utilizando UiPath, Selenium e Power Automate, além de desenvolvimento web com Next.js, FastAPI e TypeScript.
+
+---
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-dutra-2791a6270/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:roberto.filho.mrm75@gmail.com)
 
-## Habilidades 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=4ldenis&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/4ldenis/dio-lab-open-source.git)
+## Tecnologias e Ferramentas
+
+### Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Automação & RPA
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
