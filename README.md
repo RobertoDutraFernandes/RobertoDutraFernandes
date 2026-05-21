@@ -8,8 +8,6 @@ Sou estudante de Engenharia da Computação no Centro Universitário FACENS, com
 
 Tenho experiência prática no desenvolvimento de soluções utilizando Python para análise de dados, automação de processos (RPA) e criação de aplicações inteligentes.
 
-Também atuo com automação utilizando UiPath, Selenium e Power Automate, além de desenvolvimento web com Next.js, FastAPI e TypeScript.
-
 ---
 
 ## Conecte-se comigo
@@ -31,6 +29,4 @@ Também atuo com automação utilizando UiPath, Selenium e Power Automate, além
 
 ### Automação & RPA
 
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
